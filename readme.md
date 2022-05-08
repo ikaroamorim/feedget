@@ -3,7 +3,7 @@
 ![image](https://img.shields.io/badge/vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
 ![image](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/tailwindcss-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![image](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodejs&logoColor=white)
+![image](https://img.shields.io/badge/node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/railway-0b0d0e?style=for-the-badge&logo=railway&logoColor=white)
 ![image](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -24,11 +24,13 @@
 
 <a name="description"></a>
 ## 💻 Project Description
-<p> Feedget is a application that helps yoy to provide feedback on sites and screenshot whithout changing screen. It ofers you 3 categories of feedbacks that you can write a message and send a screenshot.</p>
-<p> The app is delivered in a web version that is hosted on Vercel and a mobile version in react Native, and its backend done in Node.js is hosted in Railway. </p>
-<p> This project were elaborated in Next Level Week Return from RocketSeat </p>
+Feedget is a application that helps yoy to provide feedback on sites and screenshot whithout changing screen. It ofers you 3 categories of feedbacks that you can write a message and send a screenshot.
+ The app is delivered in a web version that is hosted on Vercel and a mobile version in react Native, and its backend done in Node.js is hosted in Railway. 
+This project were elaborated in Next Level Week Return from [RocketSeat](https://www.rocketseat.com.br/)
 
-[RocketSeat](https://www.rocketseat.com.br/)
+Visit the project: [Site Hosted in Vercel](https://feedget-ikaroamorim.vercel.app/)
+
+
 
 <a name="instalation"></a>
 ## 📦 Instalation
